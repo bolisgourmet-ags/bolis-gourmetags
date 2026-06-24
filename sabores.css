@@ -1,0 +1,8 @@
+#sabores{
+    background-image: url('assets/mango con chamoy.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 20px;
+    position: relative;
+}
